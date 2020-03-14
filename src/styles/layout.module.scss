@@ -1,0 +1,33 @@
+.body {
+    background-image: url('https://scontent-dfw5-2.xx.fbcdn.net/v/t1.0-9/78563372_2783758671645099_2001227985662771200_o.jpg?_nc_cat=108&_nc_sid=dd9801&_nc_ohc=tVprWtFZtsEAX8NuByb&_nc_ht=scontent-dfw5-2.xx&oh=49ba59a76c7c5c114c92e33f6c6dd1a5&oe=5E996E41');
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+} 
+
+.container {
+    color: white;
+    font-family: "Lucida Console";
+    margin: 0 auto;
+    max-width: 750px;
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content {
+    flex-grow: 1;
+}
+
+.containerContent {
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    padding-top: 400px;
+}
+
+
+    
+   
